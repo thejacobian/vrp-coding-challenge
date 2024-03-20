@@ -1,1 +1,3 @@
-./trainingProblems
+node_modules
+trainingProblems
+.DS_Store
